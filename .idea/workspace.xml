@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05c393b1-f02f-47a1-9e89-b4698993ab24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/JPRO1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/hw12/hw1/HW1$Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/hw12/hw1/HW1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/hw12/hw1/hw3/HW3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/hw12/hw1/hw3/Save.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/hw12/hw2/TextContainer$Container.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/hw12/hw2/TextContainer$SaveTo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/hw12/hw2/TextContainer$Saver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/hw12/hw2/TextContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/reflection/Reflection$Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/reflection/Reflection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/tester/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/tester/OtherClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/tester/SomeClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/tester/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPRO1/out/artifacts/JPRO1_war_exploded/WEB-INF/classes/tester/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO51/HW51/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO51/HW51/src/main/java/AbstractDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO51/HW51/src/main/java/Apartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO51/HW51/src/main/java/ApartmentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO51/HW51/src/main/java/DbProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO51/HW51/src/main/java/Id.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO51/HW51/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO51/HW51/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO51/HW51/src/test/java/GetTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/.idea/artifacts/HW_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/HW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/out/artifacts/HW_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/out/artifacts/HW_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/src/main/java/CourseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/src/main/java/DateOfCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/src/main/java/JsonToDateOfCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/target/classes/CourseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/target/classes/DateOfCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/target/classes/JsonToDateOfCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/web/WEB-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PRO7/HW/web/qwert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/dynamic/group_del.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/config/TestDataBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/config/WebInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/controllers/ContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/controllers/GroupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/dao/ContactDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/dao/ContactDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/dao/GroupDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/dao/GroupDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/model/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/services/ContactService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/services/ContactServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/dynamic/group_del.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PRO3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PRO3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PRO3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PRO3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PRO3/src/main/java/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PRO3/src/main/java/TakeFileServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PRO3/src/main/java/TakeFileServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/GroupController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/GroupController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/GroupDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/GroupDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/GroupDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/GroupDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/services/ContactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/services/ContactService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/services/ContactServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/services/ContactServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/dynamic/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/dynamic/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/controllers/GroupController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/controllers/GroupController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/dao/GroupDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/dao/GroupDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/dao/GroupDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/dao/GroupDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/services/ContactService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/services/ContactService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/services/ContactServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/services/ContactServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/dynamic/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/dynamic/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/controllers/GroupController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/controllers/GroupController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/dao/GroupDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/dao/GroupDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/dao/GroupDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/dao/GroupDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/services/ContactService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/services/ContactService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/services/ContactServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/services/ContactServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/dynamic/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/dynamic/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PRO9/SP7Imp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PRO9/SP7Imp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PRO9/SP7Imp/src/resourses/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../PRO9/SP7Imp/src/resourses/application.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/GroupDAOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#0#21#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/ContactController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="55" column="56" lean-forward="true" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/config/WebInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/config/TestDataBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/config/AppConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/GroupDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/resources/dynamic/group_del.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="59" column="113" selection-start-line="59" selection-start-column="113" selection-end-line="59" selection-end-column="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/ContactDAOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-261">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#0#65#1" expanded="true" />
+                <element signature="e#0#42#1" expanded="true" />
+                <element signature="e#0#50#1" expanded="true" />
+                <element signature="e#0#30#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/ContactDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/GroupController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#945#946#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/model/Group.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/ContactController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/config/WebInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/GroupDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/services/ContactServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/services/ContactService.java" />
+        <option value="$PROJECT_DIR$/target/classes/dynamic/index.jsp" />
+        <option value="$PROJECT_DIR$/src/resources/dynamic/group_del.jsp.html" />
+        <option value="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/dynamic/index.jsp" />
+        <option value="$PROJECT_DIR$/src/resources/dynamic/index.jsp" />
+        <option value="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/dynamic/group_del.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/GroupController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/GroupDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/resources/dynamic/group_del.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="200" />
+    <option name="y" value="136" />
+    <option name="width" value="1200" />
+    <option name="height" value="655" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="prog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="prog" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="prog" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="prog" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="prog" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="prog" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="ua" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0-SNAPSHOT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0-SNAPSHOT" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0-SNAPSHOT" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0-SNAPSHOT" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0-SNAPSHOT" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0-SNAPSHOT" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0-SNAPSHOT" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="ua" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0-SNAPSHOT" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="ua" type="462c0819:PsiDirectoryNode" />
+              <item name="kiev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0-SNAPSHOT" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="ua" type="462c0819:PsiDirectoryNode" />
+              <item name="kiev" type="462c0819:PsiDirectoryNode" />
+              <item name="prog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringMVCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2-1.0-SNAPSHOT" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="ua" type="462c0819:PsiDirectoryNode" />
+              <item name="kiev" type="462c0819:PsiDirectoryNode" />
+              <item name="prog" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="spring2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spring2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586195276441" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/dynamic" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15479723" />
+    <property name="project.structure.side.proportion" value="0.34051222" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/dynamic" />
+      <recent name="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT" />
+      <recent name="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/controllers" />
+      <recent name="$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.333" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.333" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8889/" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="spring2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring2_3" />
+        <option name="HTTP_PORT" value="8889" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56077" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="spring2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05c393b1-f02f-47a1-9e89-b4698993ab24" name="Default Changelist" comment="" />
+      <created>1579704869883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579704869883</updated>
+      <workItem from="1579704873104" duration="7044000" />
+      <workItem from="1579784972257" duration="4000" />
+      <workItem from="1580143618041" duration="1957000" />
+      <workItem from="1580230120054" duration="394000" />
+      <workItem from="1583427362008" duration="5434000" />
+      <workItem from="1583577445838" duration="8000" />
+      <workItem from="1583859056106" duration="4593000" />
+      <workItem from="1585762097344" duration="32000" />
+      <workItem from="1586187217544" duration="6052000" />
+      <workItem from="1586272675703" duration="31000" />
+      <workItem from="1586358835298" duration="6000" />
+      <workItem from="1588688564731" duration="930000" />
+      <workItem from="1589094216297" duration="1750000" />
+      <workItem from="1589097245254" duration="14617000" />
+      <workItem from="1589180263459" duration="10077000" />
+    </task>
+    <task id="LOCAL-00001" summary="dfghj">
+      <created>1589099151988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589099151990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52929000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1600" height="873" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8110687" visible="true" weight="0.21557271" />
+      <window_info id="Structure" order="1" sideWeight="0.1889313" side_tool="true" weight="0.21557271" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32880434" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4660326" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4021739" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32915717" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32880434" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32947233" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="CDI" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8110687" visible="true" weight="0.21557271" />
+      <window_info id="Structure" order="1" sideWeight="0.1889313" side_tool="true" weight="0.21557271" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32880434" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4660326" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4021739" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32915717" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32880434" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32947233" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="CDI" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dfghj" />
+    <option name="LAST_COMMIT_MESSAGE" value="dfghj" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/ContactDAOImpl.java</url>
+          <line>14</line>
+          <properties field="entityManager" class="ua.kiev.prog.dao.ContactDAOImpl" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/GeneratedValue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.2.RELEASE/spring-tx-4.3.2.RELEASE.jar!/org/springframework/transaction/PlatformTransactionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/static/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/4.3.2.RELEASE/spring-orm-4.3.2.RELEASE.jar!/org/springframework/orm/jpa/LocalContainerEntityManagerFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/4.3.2.RELEASE/spring-orm-4.3.2.RELEASE.jar!/org/springframework/orm/jpa/AbstractEntityManagerFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="50" column="214" selection-start-line="50" selection-start-column="190" selection-end-line="50" selection-end-column="214" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/spring2-1.0/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/dynamic/group_add_page.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/dynamic/contact_add_page.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/dynamic/group_del.jsp.html" />
+    <entry file="file://$PROJECT_DIR$/target/classes/dynamic/group_del.jsp.html" />
+    <entry file="file://$PROJECT_DIR$/target/classes/dynamic/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="104" column="57" selection-start-line="104" selection-start-column="57" selection-end-line="104" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/controllers/GroupController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/dynamic/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1490">
+          <caret line="104" column="48" selection-start-line="104" selection-start-column="48" selection-end-line="104" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/spring2-1.0-SNAPSHOT/dynamic/group_del.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/dynamic/contact_add_page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/dynamic/group_add_page.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.2.RELEASE/spring-webmvc-4.3.2.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-917">
+          <caret line="493" selection-start-line="493" selection-end-line="493" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.2.RELEASE/spring-webmvc-4.3.2.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="401" selection-start-line="401" selection-end-line="401" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.2.RELEASE/spring-webmvc-4.3.2.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="533" selection-start-line="533" selection-end-line="533" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.2.RELEASE/spring-web-4.3.2.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.2.RELEASE/spring-aop-4.3.2.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.2.RELEASE/spring-tx-4.3.2.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/4.3.2.RELEASE/spring-orm-4.3.2.RELEASE.jar!/org/springframework/orm/jpa/SharedEntityManagerCreator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="230" selection-start-line="230" selection-end-line="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.2.RELEASE/spring-aop-4.3.2.RELEASE.jar!/org/springframework/aop/support/AopUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="180" selection-start-line="180" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/dynamic/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-980">
+          <caret line="21" column="132" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/services/ContactServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/services/ContactService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/model/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/model/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/GroupDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#0#21#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/GroupDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/ContactDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#0#65#1" expanded="true" />
+            <element signature="e#0#42#1" expanded="true" />
+            <element signature="e#0#50#1" expanded="true" />
+            <element signature="e#0#30#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/dao/ContactDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/GroupController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/controllers/ContactController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="55" column="56" lean-forward="true" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/config/WebInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/config/TestDataBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/dynamic/group_del.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="59" column="113" selection-start-line="59" selection-start-column="113" selection-end-line="59" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring2:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.34051222" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (spring2)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.34051222" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.34051222" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|spring2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.34051222" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20502092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.34051222" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

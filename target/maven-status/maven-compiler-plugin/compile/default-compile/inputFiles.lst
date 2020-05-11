@@ -1,0 +1,13 @@
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/config/WebInitializer.java
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/config/TestDataBean.java
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/dao/ContactDAOImpl.java
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/model/Group.java
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/controllers/GroupController.java
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/services/ContactService.java
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/model/Contact.java
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/dao/ContactDAO.java
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/controllers/ContactController.java
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/dao/GroupDAO.java
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/services/ContactServiceImpl.java
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/dao/GroupDAOImpl.java
+/home/maxvkamkin/prog/java/javapro/PRO8/SpringMVCDemo/src/main/java/ua/kiev/prog/config/AppConfig.java
